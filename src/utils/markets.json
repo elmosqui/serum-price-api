@@ -294,6 +294,13 @@
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
   },
   {
+    "symbol": "FEFE",
+    "tokenMint": "77v5pt7oFaBHfVP9E97cwKT5AnFRwPbnxSNJvzXkWTUV",
+    "decimals": 6,
+    "serumV3Usdc": "GXL164trLUbf7FTjp76DLdgPiAzjysGosUaKTbCrsFK3",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+  },
+  {
     "symbol": "WOOF",
     "tokenMint": "9nEqaUcb16sQ3Tn1psbkWqyhPdLmfHWjKGymREjsAgTE",
     "decimals": 6,
