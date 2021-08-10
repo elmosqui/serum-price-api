@@ -8,9 +8,9 @@
     },
     {
         "symbol": "TEST",
-        "tokenMint": "xxxxxx",
+        "tokenMint": "11111111111111111111111111111118",
         "decimals": 6,
-        "serumV3Usdc": "ABC",
+        "serumV3Usdc": "9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
         "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
     }
 ]
